@@ -1,15 +1,10 @@
 @charset "utf-8";
-@font-face {
-    font-family: 'Noto Sans';
-    src:url('buttogenli.woff') format('woff');
-}
 h1 {
 	margin: 0;
 	padding: 0;
 }
 body {
     background-color: #f4f4f4;
-    font-family: 'Noto Sans';
 }
 Header {
     background-color: #2c3e50;
