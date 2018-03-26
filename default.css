@@ -7,15 +7,14 @@ body {
     background-color: #f4f4f4;
 }
 Header {
-    background-color: #4CAF50;
-    text-shadow: 1px 1px 1px #444; 
+    background: #4CAF50 url(titleback.jpg);
+    background-size: cover;
+    text-shadow: 0 0 10px #000; 
     color: #fff;
     width:  100%;
     text-align: center;
     padding: 30px 0;
-}
-h1{
-    text-shadow: 1px 1px 10px #000; 
+    z-index: 0;
 }
 h2{
     font-size: 28px;
