@@ -70,3 +70,6 @@ h3:after {right: 0;}
 img {
     width: 75%
 }
+p{
+  text-indent: 1em;
+}
